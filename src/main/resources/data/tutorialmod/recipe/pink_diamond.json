@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tutorialmod:pink_diamond_block"
+    }
+  ],
+  "result": {
+    "id": "tutorialmod:pink_diamond",
+    "count": 9
+  }
+}

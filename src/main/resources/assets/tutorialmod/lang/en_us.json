@@ -1,3 +1,8 @@
 {
-  "item.tutorialmod.pink_diamond": "Pink Diamond"
+  "item.tutorialmod.pink_diamond": "Pink Diamond",
+  "block.tutorialmod.pink_diamond_block": "Pink Diamond Block",
+  "block.tutorialmod.pink_diamond_ore": "Pink Diamond Ore",
+  "block.tutorialmod.pink_diamond_deepslate_ore": "Pink Diamond Deepslate Ore",
+
+  "itemgroup.tutorialmod.pink_diamond_items": "Pink Diamond Items"
 }

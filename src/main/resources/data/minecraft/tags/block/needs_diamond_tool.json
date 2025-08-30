@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:pink_diamond_block",
+    "tutorialmod:pink_diamond_ore",
+    "tutorialmod:pink_diamond_deepslate_ore"
+  ]
+
+}
